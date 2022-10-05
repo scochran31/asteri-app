@@ -14,6 +14,7 @@ function App() {
       <Box
         bgImage={background}
         bgPosition='center'
+        bgSize='cover'
         minH='100vh'
         width='100%'
       >
